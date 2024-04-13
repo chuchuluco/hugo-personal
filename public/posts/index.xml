@@ -6,16 +6,7 @@
     <description>Recent content in Posts on Oscar FDZ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Apr 2024 19:37:44 -0500</lastBuildDate>
+    <lastBuildDate></lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Starting A Hugo Personal Website</title>
-      <link>http://localhost:1313/posts/starting-this-hugo-blog/</link>
-      <pubDate>Fri, 12 Apr 2024 19:37:44 -0500</pubDate>
-      <guid>http://localhost:1313/posts/starting-this-hugo-blog/</guid>
-      <description>THE FIRST DRAFT This is a simple example of how to make some content for this personal website.
-Writing some posts or showcase something of interest.
-Build using Hugo, please visit Hugo website!</description>
-    </item>
   </channel>
 </rss>
