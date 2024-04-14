@@ -1,4 +1,21 @@
-baseURL = 'https://example.org/'
+baseURL = ''
 languageCode = 'en-us'
 title = 'Oscar FDZ'
 theme = 'PaperMod'
+
+[[menu.main]]
+identifier = "archives"
+name = "Archives"
+url = "/archives/"
+weight = 10
+[[menu.main]]
+identifier = "portfolio"
+name = "Portfolio"
+url = "/portfolio/"
+weight = 30
+[[menu.main]]
+identifier = "search"
+name = "Search"
+url = "/search/"
+weight = 40
+

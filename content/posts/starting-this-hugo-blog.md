@@ -20,6 +20,6 @@ I welcome you to this project, feel free to read, share and comment on my posts,
 find wandering in this place. 
 
 
-Credit to my dearest and one of the best friends I have LMCJ, for the idea of making a personal website. And me, for 
+Credit to my dearest and one of the best friends I have [El LMCJ](https://lmcj.xyz), for the idea of making a personal website. And me, for 
 taking the responsibility and effort of making this project something of value to me and maybe other people.
 Finally, to Hugo, that makes this project possible, please visit [Hugo](https://gohugo.io) website.
