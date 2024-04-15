@@ -1,7 +1,8 @@
-baseURL: ""
+baseURL: "https://examplesite.com/"
 languageCode: en-us
 title: Oscar FDZ
 theme: PaperMod
+
 menu:
   main:
     - identifier: archives
@@ -24,8 +25,8 @@ params:
   ShowShareButtons: true
   ShowPostNavLinks: true
   homeInfoParams:
-    Title: Hi there wave
-    Content: Can be Info, links, about...
+    Title: Hello and Welcome
+    Content: This is my personal website, feel free to navigate
   socialIcons:
     - name: github
       url: https://github.com/chuchuluco
