@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Oscar FDZ</description>
     <generator>Hugo -- 0.124.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Apr 2024 19:37:44 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 14 Apr 2024 20:21:03 -0500</lastBuildDate>
     <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Metroidvania</title>
+      <link>//localhost:1313/posts/metroidvania/</link>
+      <pubDate>Sun, 14 Apr 2024 20:21:03 -0500</pubDate>
+      <guid>//localhost:1313/posts/metroidvania/</guid>
+      <description>What is that? Simple, metroidvania is a term used to refer to action-adventure games that have a specific set of characteristics and mechanics, the most obvious one is that these types of games are “open-ended” meaning that you can back-track your steps and acquire new items or maybe a new skill that helps you make progress in the game. The term comes from the fusion of two game titles: Metroid (1986) and Castlevania (1986).</description>
+    </item>
     <item>
       <title>Starting A Hugo Personal Website</title>
       <link>//localhost:1313/posts/starting-this-hugo-blog/</link>
@@ -15,13 +22,6 @@
       <guid>//localhost:1313/posts/starting-this-hugo-blog/</guid>
       <description>THE FIRST POST The name is Oscar Fernandez, author of this personal website where I expect to fill with some random information about video games, anime, music, coding, and other interesting things that I want to know about or maybe explore new ways of making content.
 Another thing that I want to do with this is create a space (portfolio) to be able to express myself and showcase some of my work.</description>
-    </item>
-    <item>
-      <title></title>
-      <link>//localhost:1313/posts/metroidvania/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/metroidvania/</guid>
-      <description>Metroidvania What is that? Simple, metroidvania is a term used to refer to action-adventure games that have a specific set of characteristics and mechanics, the most obvious one is that these types of games are “open-ended” meaning that you can back-track your steps and acquire new items or maybe a new skill that helps you make progress in the game. The term comes from the fusion of two game titles: Metroid (1986) and Castlevania (1986).</description>
     </item>
   </channel>
 </rss>

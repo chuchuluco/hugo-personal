@@ -1,0 +1,36 @@
+baseURL: ""
+languageCode: en-us
+title: Oscar FDZ
+theme: PaperMod
+menu:
+  main:
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 10
+    - identifier: portfolio
+      name: Portfolio
+      url: /portfolio/
+      weight: 30
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 40
+params:
+  keywords:
+    - Blog
+    - Portfolio
+  author: Oscar Fdz
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  homeInfoParams:
+    Title: Hi there wave
+    Content: Can be Info, links, about...
+  socialIcons:
+    - name: github
+      url: https://github.com/chuchuluco
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
