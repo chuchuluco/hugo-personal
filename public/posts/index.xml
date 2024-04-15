@@ -16,5 +16,12 @@
       <description>THE FIRST POST The name is Oscar Fernandez, author of this personal website where I expect to fill with some random information about video games, anime, music, coding, and other interesting things that I want to know about or maybe explore new ways of making content.
 Another thing that I want to do with this is create a space (portfolio) to be able to express myself and showcase some of my work.</description>
     </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/posts/metroidvania/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/metroidvania/</guid>
+      <description>Metroidvania What is that? Simple, metroidvania is a term used to refer to action-adventure games that have a specific set of characteristics and mechanics, the most obvious one is that these types of games are “open-ended” meaning that you can back-track your steps and acquire new items or maybe a new skill that helps you make progress in the game. The term comes from the fusion of two game titles: Metroid (1986) and Castlevania (1986).</description>
+    </item>
   </channel>
 </rss>
