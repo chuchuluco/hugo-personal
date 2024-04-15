@@ -2,18 +2,17 @@
 title = 'Metroidvania'
 date = 2024-04-14T20:21:03-05:00
 draft = false
-
 +++
 
 ## What is that?
 
 Simple, metroidvania is a term used to refer to action-adventure games that have a specific set of **characteristics** and **mechanics,** the most obvious one is that these types of games are “open-ended” meaning that you can back-track your steps and acquire new items or maybe a new skill that helps you make progress in the game. The term comes from the fusion of two game titles: [Metroid](https://www.metroidwiki.org/wiki/Main_Page) (1986) and [Castlevania](https://castlevania.neoseeker.com/wiki/Main_Page) (1986). 
 
-![The very first Metroid game, 1986](/Metroidvania/metroidnes.png)
+![The very first Metroid game, 1986](/metroidvania/metroidnes.png)
 
 The very first Metroid game, 1986
 
-![Castlevania](/Metroidvania/castlevanianes.png)
+![Castlevania](/metroidvania/castlevanianes.png)
 
 The first Castlevania game, 1986
 
@@ -57,7 +56,7 @@ Look, bro… they just are. They have great storytelling, beautiful environments
 
 Expanding on my “beautiful environments” argument, look at this image:
 
-![Hollow Knight resting bench](/Metroidvania/restingbench.png)
+![Hollow Knight resting bench](/metroidvania/restingbench.png)
 
 Hollow Knight resting bench
 
@@ -65,7 +64,7 @@ And that’s only a fraction of the world, a still image of the map.
 
 Now listen to this from Ori and the blind forest, a song from the OST.
 
-[01. Ori, Lost in the Storm (feat. Aeralie Brighton).mp3](/Metroidvania/01._Ori_Lost_in_the_Storm_(feat._Aeralie_Brighton).mp3)
+[01. Ori, Lost in the Storm (feat. Aeralie Brighton).mp3](/metroidvania/01._Ori_Lost_in_the_Storm_(feat._Aeralie_Brighton).mp3)
 
 As said before, art. Even better, playable art.
 
