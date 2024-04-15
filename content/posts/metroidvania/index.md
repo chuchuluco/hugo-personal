@@ -64,7 +64,7 @@ And that’s only a fraction of the world, a still image of the map.
 
 Now listen to this from Ori and the blind forest, a song from the OST.
 
-[01. Ori, Lost in the Storm (feat. Aeralie Brighton).mp3](audio/01._Ori_Lost_in_the_Storm_(feat._Aeralie_Brighton).mp3)
+{{<audio src="audio/01._Ori_Lost_in_the_Storm_(feat._Aeralie_Brighton).mp3" caption="Lost in the Storm">}}
 
 As said before, art. Even better, playable art.
 
