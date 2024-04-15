@@ -12,7 +12,7 @@ Simple, metroidvania is a term used to refer to action-adventure games that have
 
 The very first Metroid game, 1986
 
-![Castlevania](/metroidvania/castlevanianes.png)
+![Castlevania](/castlevanianes.png)
 
 The first Castlevania game, 1986
 
@@ -56,7 +56,7 @@ Look, bro… they just are. They have great storytelling, beautiful environments
 
 Expanding on my “beautiful environments” argument, look at this image:
 
-![Hollow Knight resting bench](/metroidvania/restingbench.png)
+![Hollow Knight resting bench](/restingbench.png)
 
 Hollow Knight resting bench
 
@@ -64,7 +64,7 @@ And that’s only a fraction of the world, a still image of the map.
 
 Now listen to this from Ori and the blind forest, a song from the OST.
 
-[01. Ori, Lost in the Storm (feat. Aeralie Brighton).mp3](/metroidvania/01._Ori_Lost_in_the_Storm_(feat._Aeralie_Brighton).mp3)
+[01. Ori, Lost in the Storm (feat. Aeralie Brighton).mp3](/01._Ori_Lost_in_the_Storm_(feat._Aeralie_Brighton).mp3)
 
 As said before, art. Even better, playable art.
 
