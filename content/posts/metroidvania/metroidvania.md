@@ -8,7 +8,7 @@ draft = false
 
 Simple, metroidvania is a term used to refer to action-adventure games that have a specific set of **characteristics** and **mechanics,** the most obvious one is that these types of games are “open-ended” meaning that you can back-track your steps and acquire new items or maybe a new skill that helps you make progress in the game. The term comes from the fusion of two game titles: [Metroid](https://www.metroidwiki.org/wiki/Main_Page) (1986) and [Castlevania](https://castlevania.neoseeker.com/wiki/Main_Page) (1986). 
 
-![The very first Metroid game, 1986](/metroidvania/metroidnes.png)
+![The very first Metroid game, 1986](/metroidnes.png)
 
 The very first Metroid game, 1986
 
