@@ -20,6 +20,7 @@ menu:
       name: Search
       url: /search/
       weight: 40
+
 params:
   comments: true
   keywords:
@@ -34,6 +35,9 @@ params:
   socialIcons:
     - name: github
       url: https://github.com/chuchuluco
+  mainSections:
+    - posts
+
 outputs:
   home:
     - HTML
