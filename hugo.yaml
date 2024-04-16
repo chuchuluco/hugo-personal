@@ -9,12 +9,12 @@ pluralizeListTitles: false
 menu:
   main:
     - identifier: archives
-      name: Archives
+      name: Archive
       url: /archives/
       weight: 10
-    - identifier: portfolio
-      name: Portfolio
-      url: /portfolio/
+    - identifier: projects
+      name: Projects
+      url: /projects/
       weight: 30
     - identifier: search
       name: Search
