@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Oscar FDZ</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://chuchuluco.github.io/posts/</link>
     <description>Recent content in Posts on Oscar FDZ</description>
     <generator>Hugo -- 0.124.1</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 14 Apr 2024 20:21:03 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://chuchuluco.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Metroidvania</title>
-      <link>http://localhost:1313/posts/metroidvania/</link>
+      <link>https://chuchuluco.github.io/posts/metroidvania/</link>
       <pubDate>Sun, 14 Apr 2024 20:21:03 -0500</pubDate>
-      <guid>http://localhost:1313/posts/metroidvania/</guid>
+      <guid>https://chuchuluco.github.io/posts/metroidvania/</guid>
       <description>What is that? Simple, metroidvania is a term used to refer to action-adventure games that have a specific set of characteristics and mechanics, the most obvious one is that these types of games are “open-ended” meaning that you can back-track your steps and acquire new items or maybe a new skill that helps you make progress in the game. The term comes from the fusion of two game titles: Metroid (1986) and Castlevania (1986).</description>
     </item>
     <item>
       <title>Starting A Hugo Personal Website</title>
-      <link>http://localhost:1313/posts/starting-this-hugo-blog/</link>
+      <link>https://chuchuluco.github.io/posts/starting-this-hugo-blog/</link>
       <pubDate>Fri, 12 Apr 2024 19:37:44 -0500</pubDate>
-      <guid>http://localhost:1313/posts/starting-this-hugo-blog/</guid>
+      <guid>https://chuchuluco.github.io/posts/starting-this-hugo-blog/</guid>
       <description>THE FIRST POST The name is Oscar Fernandez, author of this personal website where I expect to fill with some random information about video games, anime, music, coding, and other interesting things that I want to know about or maybe explore new ways of making content.
 Another thing that I want to do with this is create a space (portfolio) to be able to express myself and showcase some of my work.</description>
     </item>

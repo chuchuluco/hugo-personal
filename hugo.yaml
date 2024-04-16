@@ -2,6 +2,9 @@ baseURL: https://chuchuluco.github.io
 languageCode: en-us
 title: Oscar FDZ
 theme: PaperMod
+paginate: 5
+
+pluralizeListTitles: false
 
 menu:
   main:
