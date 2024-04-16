@@ -23,5 +23,12 @@
       <description>THE FIRST POST The name is Oscar Fernandez, author of this personal website where I expect to fill with some random information about video games, anime, music, coding, and other interesting things that I want to know about or maybe explore new ways of making content.
 Another thing that I want to do with this is create a space (portfolio) to be able to express myself and showcase some of my work.</description>
     </item>
+    <item>
+      <title>My Portfolio</title>
+      <link>http://localhost:1313/portfolio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/</guid>
+      <description>The portfolio</description>
+    </item>
   </channel>
 </rss>
