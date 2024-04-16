@@ -8,9 +8,9 @@ pluralizeListTitles: false
 
 menu:
   main:
-    - identifier: archives
+    - identifier: archive
       name: Archive
-      url: /archives/
+      url: /archive/
       weight: 10
     - identifier: projects
       name: Projects
