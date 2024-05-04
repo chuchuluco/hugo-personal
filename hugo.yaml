@@ -31,7 +31,7 @@ params:
   ShowPostNavLinks: true
   homeInfoParams:
     Title: Hello and Welcome
-    Content: This is my personal website, feel free to navigate
+    Content: This is my personal website, feel free to navigate. Every spelling error is intentional.
   socialIcons:
     - name: github
       url: https://github.com/chuchuluco
