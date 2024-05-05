@@ -23,7 +23,6 @@ UseHugoToc: false
 Music is a big part of my day to day, of my life even. I love music, I’m completely sure that the world would be drastically worse without music in any kind of form. But that could be said of almost any type of art, I guess that’s why art has such an impactful influence in the world and in human lives, either those who make or those who enjoy it.
 
 Music for me is:
-
 - Comfort: it relaxes me, makes me feel calm and at ease.
 - Love: a form of letting my love for someone take a musical form that I can share.
 - Empathetic: music can make 2 (or even more) different individuals connect.
@@ -150,3 +149,6 @@ In loving memory of the most loving grandma, Maria del Carmen Loera and Alberto 
 Produced and Directed by yours truly, 
 
 Oscar Fdz
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTEzNzkyNDQ4Nl19
+-->
