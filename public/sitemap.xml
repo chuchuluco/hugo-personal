@@ -2,26 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://oscar-fdz.com/posts/5-songs-i-love/</loc>
     <lastmod>2024-05-04T19:21:07-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://oscar-fdz.com/tags/blog/</loc>
     <lastmod>2024-05-04T19:21:07-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/metroidvania/</loc>
+    <loc>https://oscar-fdz.com/</loc>
+    <lastmod>2024-05-04T19:21:07-05:00</lastmod>
+  </url><url>
+    <loc>https://oscar-fdz.com/posts/</loc>
+    <lastmod>2024-05-04T19:21:07-05:00</lastmod>
+  </url><url>
+    <loc>https://oscar-fdz.com/tags/</loc>
+    <lastmod>2024-05-04T19:21:07-05:00</lastmod>
+  </url><url>
+    <loc>https://oscar-fdz.com/posts/metroidvania/</loc>
     <lastmod>2024-04-14T20:21:03-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/starting-this-hugo-blog/</loc>
+    <loc>https://oscar-fdz.com/posts/starting-this-hugo-blog/</loc>
     <lastmod>2024-04-12T19:37:44-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/archive/</loc>
+    <loc>https://oscar-fdz.com/archive/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://oscar-fdz.com/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>https://oscar-fdz.com/projects/</loc>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://oscar-fdz.com/search/</loc>
   </url>
 </urlset>

@@ -2,24 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Oscar FDZ</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://oscar-fdz.com/posts/</link>
     <description>Recent content in Posts on Oscar FDZ</description>
     <generator>Hugo -- 0.124.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Apr 2024 20:21:03 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 04 May 2024 19:21:07 -0500</lastBuildDate>
+    <atom:link href="https://oscar-fdz.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>5 Songs With A Big Place In My Heart</title>
+      <link>https://oscar-fdz.com/posts/5-songs-i-love/</link>
+      <pubDate>Sat, 04 May 2024 19:21:07 -0500</pubDate>
+      <guid>https://oscar-fdz.com/posts/5-songs-i-love/</guid>
+      <description>Music is a big part of my day to day, of my life even. I love music, I’m completely sure that the world would be drastically worse without music in any kind of form. But that could be said of almost any type of art, I guess that’s why art has such an impactful influence in the world and in human lives, either those who make or those who enjoy it.</description>
+    </item>
     <item>
       <title>Metroidvania</title>
-      <link>http://localhost:1313/posts/metroidvania/</link>
+      <link>https://oscar-fdz.com/posts/metroidvania/</link>
       <pubDate>Sun, 14 Apr 2024 20:21:03 -0500</pubDate>
-      <guid>http://localhost:1313/posts/metroidvania/</guid>
+      <guid>https://oscar-fdz.com/posts/metroidvania/</guid>
       <description>What is that? Simple, metroidvania is a term used to refer to action-adventure games that have a specific set of characteristics and mechanics, the most obvious one is that these types of games are “open-ended” meaning that you can back-track your steps and acquire new items or maybe a new skill that helps you make progress in the game. The term comes from the fusion of two game titles: Metroid (1986) and Castlevania (1986).</description>
     </item>
     <item>
       <title>Starting A Hugo Personal Website</title>
-      <link>http://localhost:1313/posts/starting-this-hugo-blog/</link>
+      <link>https://oscar-fdz.com/posts/starting-this-hugo-blog/</link>
       <pubDate>Fri, 12 Apr 2024 19:37:44 -0500</pubDate>
-      <guid>http://localhost:1313/posts/starting-this-hugo-blog/</guid>
+      <guid>https://oscar-fdz.com/posts/starting-this-hugo-blog/</guid>
       <description>THE FIRST POST The name is Oscar Fernandez, author of this personal website where I expect to fill with some random information about video games, anime, music, coding, and other interesting things that I want to know about or maybe explore new ways of making content.
 Another thing that I want to do with this is create a space (portfolio) to be able to express myself and showcase some of my work.</description>
     </item>

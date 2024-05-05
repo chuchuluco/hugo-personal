@@ -5,7 +5,7 @@ tags: ["blog"]
 author: "Oscar Fdz"
 showToc: false
 TocOpen: false
-draft: true
+draft: false
 hidemeta: false
 comments: false
 description: ""
@@ -121,7 +121,7 @@ Last but not least.
 
 I know we have been through a lot reading this post, maybe you had fun, I did. The time has come that you read the last one, but will do it together, ready? 
 
-- Read as if your brother’s name was Mario and because of that also your last name is Mario, so you can't escape the fate of always being that green guy always behind some red dude that can't keep one bitch safe.
+>Read as if your brother’s name was Mario and because of that also your last name is Mario, so you can't escape the fate of always being that green guy always behind some red dude that can't keep one bitch safe.
 
 ### ITS A MEEE NUMBER FIIIVEE!!
 
