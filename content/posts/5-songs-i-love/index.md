@@ -142,13 +142,12 @@ So these dudes almost make me cry every time I listen to them, but in a happy-sa
 Aaaaand that’s about it, for now at least. I love music and have so much more songs to share and give my feelings about, but I wanted to keep this post a little more short, and kind of give my “whys” and make “stupid read-like-this jokes” that I didn't plan on doing. I will most likely do more posts about music and songs I love.
 Finally, I hope you had a nice time reading and at least listen to one of the songs I mentioned, if not, then go fu… 
 
-Hard cut to credits. 
+>Hard cut to credits. 
 
-In loving memory of the most loving grandma, Maria del Carmen Loera and Alberto “Pato” Mendoza, a great friend with a big heart and a fucked up sense of humor, just as black as mine. 
+*In loving memory of the most loving grandma, Maria del Carmen Loera and Alberto “Pato” Mendoza, a great friend with a big heart and a fucked up sense of humor, just as black as mine.* 
 
 Produced and Directed by yours truly, 
-
 Oscar Fdz
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNzkyNDQ4Nl19
+eyJoaXN0b3J5IjpbMTkxNzg1OTI1OF19
 -->
