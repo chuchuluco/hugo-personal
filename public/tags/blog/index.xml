@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blog on Oscar FDZ</title>
+    <link>http://localhost:1313/tags/blog/</link>
+    <description>Recent content in Blog on Oscar FDZ</description>
+    <generator>Hugo -- 0.124.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 04 May 2024 19:21:07 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>5 Songs With A Big Place In My Heart</title>
+      <link>http://localhost:1313/posts/5-songs-i-love/</link>
+      <pubDate>Sat, 04 May 2024 19:21:07 -0500</pubDate>
+      <guid>http://localhost:1313/posts/5-songs-i-love/</guid>
+      <description>Music is a big part of my day to day, of my life even. I love music, I’m completely sure that the world would be drastically worse without music in any kind of form. But that could be said of almost any type of art, I guess that’s why art has such an impactful influence in the world and in human lives, either those who make or those who enjoy it.</description>
+    </item>
+  </channel>
+</rss>

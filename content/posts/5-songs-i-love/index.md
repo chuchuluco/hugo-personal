@@ -49,10 +49,9 @@ Jack Johnson is one of my all-time favorite artists, his music is kind of a frac
 There’s really not a lot I want to say about this song or Jack himself, other than there’s more to “feel” about it. 
 Only listen to the song if you are the love of my life.
 
-> read in a boxing match announcer voice
+> *Read in a boxing match announcer voice*
 
 ### AND ON THE BLUE CORNER, NUUUUUMMMBEEERR TWWOOOOOO
-
 *Julio Cesar Chavez shadow-boxing showing off* 
 
 Had to do it, sorry. 
@@ -72,17 +71,16 @@ Before you go, this song has a very big place in my heart. HONNE is also one of 
 That we both found out “accidentally” that we loved their music is one of the best moments of our friendship, it could be compared with those moments in movies where two white girls meet and scream at each other dramatically and annoyingly AF, but in a cool just-two-bros-having-something-they-both-love-in-common way. 
 You can keep reading now, kisses.
 
-- Now read out-loud in your lovely voice, but in a cool way
+> *Now read out-loud in your lovely voice, but in a cool way*
 
 ### I’M DICK nice to meet you… NUMBER THREEE
-
 *me laughing alone in some café*
+
 You just got got. “Fooled” in understandable and civil terms. 
 
 Now I present to you, Dromedarios Magicos & José Madero’s **Las Horas** from Dromedarios album Bicampeón. 
 
 {{< spotify type="track" id="3ThzWvmg8B0KO5I8xnUzdN" width="100%" height="100" >}}
-
 
 Honorable mentions: **Tu Cama** and **Los Malaventurados No Lloran**, the former is  by Dromedarios the latter is by Jose Madero (Panda lead vocal, stylized as PXNDX). 
 
@@ -90,21 +88,21 @@ Now this one is a tricky one, but not on the “got got” way you experienced; 
 
 I know death is a serious matter, but this is my friend and my way of handling these types of topics. José Madero is, or was, my friend’s (Alberto Mendoza) favorite artist, the song doesn’t really have anything related to how I felt about him or our relationship, but it’s a really nice song that for some reason makes me remember him and what he represented in my life. In life and death, my friend would have a laugh or two reading this post, and that makes me happy. 
 
-- by now just read it however you prefer… Psych! Do it as if it was the DK rap
-
-He-he-here we go!
-
-So they're finally here, performing for you
-If you know the words, you can join in too
-Put your hands together, if you want to clap
-As we take you through this monkey rap!
-Huh!
-
+>*By now just read it however you prefer… Psych! Do it as if it was the DK rap*
+>
+>He-he-here we go!
+>So they're finally here, performing for you\
+>If you know the words, you can join in too\
+>Put your hands together, if you want to clap\
+>As we take you through this monkey rap!
+>
+>Huh!
 ### N4, Number four!
 
 Old and cringe just like any respectable Dad. 
 
-Note: I’m not even sorry. 
+>Note\
+>I’m not even sorry.
 
 This song has been in my life since I can remember, so like 2006 or later. Man, getting old is hard, but I digress. 
 
