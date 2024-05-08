@@ -20,13 +20,13 @@ ShowRssButtonInSectionTermList: true
 UseHugoToc: false
 ---
 
-Music is a big part of my day to day, of my life even. I love music, I’m completely sure that the world would be drastically worse without music in any kind of form. But that could be said of almost any type of art, I guess that’s why art has such an impactful influence in the world and in human lives, either those who make or those who enjoy it.
+Music is a huge part of my life. I love music, I’m completely sure that the world would be drastically worse without music in any kind of form. But that could be said of almost any type of art, I guess that’s why art has such an impactful influence in human lives, either those who make it or those who enjoy it.
 
-Music for me is:
+For me, music is:
 - Comfort: it relaxes me, makes me feel calm and at ease.
 - Love: a form of letting my love for someone take a musical form that I can share.
-- Empathetic: music can make 2 (or even more) different individuals connect.
-- Fun: music can be fun, make you laugh or dance and sing.
+- Empathetic: music can make two (or even more) different individuals connect and feel the same emotion.
+- Fun: it can make you laugh or dance and sing enjoying it by yourself or with others.
 - A very good way to judge people based on what they like.
 
 Without more yapping from me side of the screen, and in no particular order, I present to you:
@@ -34,7 +34,7 @@ Without more yapping from me side of the screen, and in no particular order, I p
 ## 5  SONGS WITH A BIG PLACE IN MY HEART
 *audible claps and cheering*
 
-> *Read with a cool narrator voice, maybe Morgan Freeman, or that girl from WatchMojo*
+>*Read with a cool narrator voice, maybe Morgan Freeman, or that girl from WatchMojo*
 
 ### NUMBER 1
 
@@ -48,7 +48,7 @@ Jack Johnson is one of my all-time favorite artists, his music is kind of a frac
 There’s really not a lot I want to say about this song or Jack himself, other than there’s more to “feel” about it. 
 Only listen to the song if you are the love of my life.
 
-> *Read in a boxing match announcer voice*
+>*Read in a boxing match announcer voice*
 
 ### AND ON THE BLUE CORNER, NUUUUUMMMBEEERR TWWOOOOOO
 *Julio Cesar Chavez shadow-boxing showing off* 
@@ -70,7 +70,7 @@ Before you go, this song has a very big place in my heart. HONNE is also one of 
 That we both found out “accidentally” that we loved their music is one of the best moments of our friendship, it could be compared with those moments in movies where two white girls meet and scream at each other dramatically and annoyingly AF, but in a cool just-two-bros-having-something-they-both-love-in-common way. 
 You can keep reading now, kisses.
 
-> *Now read out-loud in your lovely voice, but in a cool way*
+>*Now read out-loud in your lovely voice, but in a cool way*
 
 ### I’M DICK nice to meet you… NUMBER THREEE
 *me laughing alone in some café*
@@ -120,20 +120,22 @@ Last but not least.
 
 I know we have been through a lot reading this post, maybe you had fun, I did. The time has come that you read the last one, but will do it together, ready? 
 
->Read as if your brother’s name was Mario and because of that also your last name is Mario, so you can't escape the fate of always being that green guy always behind some red dude that can't keep one bitch safe.
+>*Read as if your brother’s name was Mario and because of that also your last name is Mario, so you can't escape the fate of always being that green guy always behind some red dude that can't keep one bitch safe.*
 
 ### ITS A MEEE NUMBER FIIIVEE!!
 
-Note: I did not do more numbers because I'm not creative enough to keep this nonsense going.
+>Note
+>I did not do more numbers because I'm not creative enough to keep this nonsense going.
 
 Finally, the best Bolero duo, Daniel, Me Estás Matando’s **Somos algo** from the album Grandes Éxitos del Boleroglam Vol. 1, it's one of my favorite songs by Daniel. A unique spin on the Bolero genre that keeps its roots but refreshes the production with a more contemporary vibe and more “current” lyrics.
 
 {{< spotify type="track" id="5iSpfk6cDOSYePagAoG639" width="100%" height="100" >}}
 
 This is another special one for me for two reasons:
+
 1. They are fucking fantastic and make great Boleros.
 
-1. Boleros was the favorite music genre of my late grandmother. Every single time I listen to Daniel, she is the only thing on my mind, then I imagine what she would have said if I showed her how they sounded like. I never had the opportunity to do so, I don't regret it, but I'm completely sure that she would have enjoyed their music. She used to listen a lot of music all the time, and from almost every genre, she didn’t care. I loved hearing her humming to a random song that she didn't know, but obviously she liked.
+2. Boleros was the favorite music genre of my late grandmother. Every single time I listen to Daniel, she is the only thing on my mind, then I imagine what she would have said if I showed her how they sounded like. I never had the opportunity to do so, I don't regret it, but I'm completely sure that she would have enjoyed their music. She used to listen a lot of music all the time, and from almost every genre, she didn’t care. I loved hearing her humming to a random song that she didn't know, but obviously she liked.
 
 So these dudes almost make me cry every time I listen to them, but in a happy-sad way. I can certainly say that they are the 1/16 that's left of my personality. 
 
