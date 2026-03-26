@@ -1,23 +1,6 @@
 ---
 title: 'Eternamente Tragico'
-date: '2026-03-26T12:48:07-05:00'
-tags: ["blog"]
-author: "Oscar Fdz"
-showToc: false
-TocOpen: false
 draft: false
-hidemeta: false
-comments: false
-description: ""
-disableHLJS: true # to disable highlightjs
-disableShare: false
-disableHLJS: false
-hideSummary: false
-searchHidden: false
-ShowReadingTime: true
-ShowPostNavLinks: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: false
 ---
 Él. Dormía, la luna lo acariciaba y el viento movía lenta y suavemente su suave cabello. 
 Ella. Ahí, inmóvil, pareciera que cualquier movimiento sería el último, su respiración tan lenta que el tiempo parecía no formar parte de esa realidad, pero su mano se movió lenta y metódicamente, como si lo hubiera repetido incontables veces, sus dedos sobre su mejilla, atentamente viendo si eso lo afectaba o no, después, lo acaricio tiernamente con la parte trasera de sus dedos, tan despacio, suave y delicado que sus movimientos carecían de fricción, como si sus manos y presencia fueran etéreas. 
