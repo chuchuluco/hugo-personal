@@ -1,5 +1,6 @@
 ---
 title: 'Eternamente Tragico'
+date: '2026-03-26T12:21:07-05:00'
 draft: false
 ---
 Él. Dormía, la luna lo acariciaba y el viento movía lenta y suavemente su suave cabello. 
