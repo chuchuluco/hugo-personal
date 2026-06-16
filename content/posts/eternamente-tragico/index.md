@@ -1,6 +1,6 @@
 ---
 title: 'Eternamente Tragico'
-date: '2026-06-16T12:21:07'
+date: '2026-03-26T12:21:07'
 draft: false
 author: 'Oscar FDZ'
 ---
