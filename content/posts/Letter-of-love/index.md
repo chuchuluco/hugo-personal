@@ -1,0 +1,51 @@
+---
+title: "Letter for a Love: Amor amor amor, amor"
+date: '2026-03-26T12:21:07'
+draft: false
+author: 'Oscar FDZ'
+---
+Querido amor,
+
+Hemos cruzado por incontable número de baches, tropezones o equivocaciones, como lo quieras llamar. La mayoría, puedo admitir, han sido por mi culpa. Mi temperamento puede ser de lo peor en algunas ocasiones, y llego a perder el sentido de la razón. Y esta es mi lucha.
+Cuando algo me disgusta, cuando no puedo hacer lo que quiero y disfrutar de lo que amo, es lo que sale a la luz, una personalidad horrible, indiferente y que solo ve por el mismo, me quedo encerrado, incapacitado y lo único que puedo lograr hacer es lamentarme porque puedo llegar a ser un total imbécil y no soy capaz de hacer algo al respecto.
+Sé que tengo una manera extraña de hacer las cosas, por algún motivo siempre hago algo malo para después hacer algo mucho mejor, ya es como un ciclo para mí. Creo que *conscientemente inconsciente* intento que no te acostumbres a mí, que no te aburras y haciéndote molestar es como lo consigo. Sé que esto está mal, pero para mí no hay otra forma, en verdad intento encontrarla, pero siempre caigo en lo mismo, hacerte sentir mal para después intentar hacer algo mucho mejor y solucionarlo, creo que amar no es algo que pueda hacer de la mejor manera, pero supongo que con el tiempo aprenderé. No puedo perder esa esperanza, amarte me mantiene vivo, un poco consiente y me da para todo, pero a su paso, a veces mis sentimientos me ganan, es algo que no puedo controlar. Porque estos sentimientos son nuevos, son todo un revoltijo, un remolino descomunal de contrarios que me atacan por turnos aleatorios y jamás sé qué esperar.
+
+Mi estado de ánimo es sumamente cambiante, y en cualquier instante puede ser todo lo contrario, mi lucha día a día es esta: pelear contra sentimientos que brotan sin cesar, estar lo mejor posible para la mujer de mi vida, amarla, recordar lo que ella significa para mí y lo que merece, soportar cualquier inconveniente que no me permita hacer algo con esa mujer tan hermosa, el hecho de que esté lejos de mí siempre, que solo la puedo ver cada semana, que para mí no es suficiente solo una plática, no porque sea muy poco, si no, porque amar se trata de mucho más que una plática, se trata de estar ahí sin importar que, de extrañarse, de decirlo cada día a cada momento, que lo que más añoras es estar con quien amas. Pero, la realidad es que el amor es aún más que todo eso, son lágrimas, sangre, sudor, llantos, risas, abrazos, besos, esperar, y mucho más.
+Dicho todo lo anterior, la batalla que se libra todos los días en mi interior no siempre tiene el mismo resultado, es algo que ni yo puedo controlar, puedo ser muy inteligente, pero son los sentimientos los culpables de dejar cualquier lógica o raciocinio de lado y tomar el control, empujarme hacer algo de lo que me puedo arrepentir.
+
+Hace unos momentos te acabo de decir que no me volvieras hablar y antes de eso cometí muchas otras estupideces, pero a veces no sé cómo controlarme, solo las hago (como anteriormente describí). 
+No intento justificarme, pero quiero hablar. Eres mi amor y solo tú me conoces en verdad, que puedo ser un par de polos opuestos, y peor aún, soy lo suficientemente inteligente para aceptarlo y darme cuenta, pero lo suficientemente estúpido, que hay cosas que no puedo cambiar solo, necesito ayuda. Sé que a veces no mereces nada de lo que hago o como puedo llegar a ser, pero si de algo estoy seguro es de que te amo, de verdad lo hago.
+Tengo tremendos conflictos dentro de mí, y solo hay una razón, tú. 
+Tú eres una chica maravillosa, la mujer a la que amo, pero eres la mujer que me posee, que hace conmigo lo que lo plazca, aunque no lo creas o no lo parezca, estoy completamente entregado a ti, de ti dependen muchas cosas y que no estés, me destruye. Me deja sintiéndome mal y sin saber qué hacer, necio y haciendo berrinche por querer estar contigo.
+
+Tenemos ya mucho tiempo juntos, o al menos un tiempo considerable. Ahora lidiamos diferente con nuestros problemas y de una mejor manera. Pero la idea es dejarlos completamente de lado y sé que yo siempre soy una razón para tenerlos, no puedes decir lo contrario. A veces siento que te exijo demasiado, pero quiero decirte que no puedo vivir solo de palabras bonitas o buenas consideraciones. Necesito amor, quiero que me lleves la contra, que hagas cosas que no harías por otra persona, que se note, sobre todo, que no soy solo alguien que te gusta mucho y está ahí para ti, quiero sentirme amado, que me chiplees, que hagas lo que yo hago.
+Yo estoy seguro de lo que siento y de lo que estoy dispuesto a demostrar, no estoy diciendo lo contrario de ti, pero hay momentos en que tus actitudes no me agradan, me hacen pensar otras cosas. 
+
+A veces todo se puede evitar con un te amo, con un "eres lo más perfecto del mundo", con un "beso", con un "ya estuvo", con un "ya basta", con un "nomas estas de chiple", con un poco de atención, con el solo hecho de marcar y no preguntar antes, con buscarme, con querer encontentarme, con no rendirse y decir “como quieras”, porque ambos sabemos que lo que queremos es estar bien.
+Me falta aclarar que esto no es un reclamo, es lo que yo hago por amor, pero yo también me puedo poner mal y no querer saber nada del mundo, porque a veces es difícil, a veces se te junta toda la mierda y vales madre. 
+Pero aun así, ahí sigues. Podrán golpearte, pero no vas a caer de rodillas, sangraras de todos lados, estarás a punto de morir, pero tus rodillas no van a tocar el suelo.
+
+Te acepto tal y como eres, pero quiero que mi amor sea correspondido, porque te elegí a ti sobre todas las cosas. Porque creo y sé que tú me lo darás todo, que sientes lo mismo que yo y estas dispuesta. Ser diferentes es lo más difícil y lo mejor que se puede ser, tenemos que aprender del otro, cualquier cosa, el amor está ahí para darnos esa razón que necesitamos para cambiar.
+
+El amor, amor, es algo magnifico. El amor lo es todo. El amor es: Tú, yo, nosotros, una lagrima, un beso, un abrazo, una caricia, un rencor, un grito, una nalgada, un rasguño, una palmada, un hola, un adiós, un ya basta, un quédate, un como estas, un buenos días, un buenas noches, una risa, una carcajada, una caminata, una escapada, un sentimiento, una emoción o todas juntas, un placer, un gusto, un deseo, una necesidad, un anhelo, un cariño, un pesar, una melancolía, una felicidad, una tristeza, un llanto, una carrera, un paseo, una montaña rusa, una sorpresa, una casualidad, un pliegue de tu piel, un lunar, un par de ojos, un regalo, un golpe, una sarta de estupideces, unas cuantas inconsistencias y todo lo que pueda existir entre dos personas.
+
+Amar es más difícil de lo que parece, imagina para dos inexpertos y tarugos que no sabían ni como permanecer en una relación, uno que puede hacer lo que se le dé la gana sin remordimientos o algún tipo de solidaridad y que tiene además una forma de ser muy pesada necia y orgullosa, pero también es una persona que necesita mucho amor, mucho cariño y atención, que le den algo que no se puede dar a sí mismo, el, un chico independiente que ha caído y lo ha levantado una mujer que está casi igual de rota y lastimada que él, pero que ahora están reparándose, cuidando del otro y cada día intentan lo mejor que pueden, cambiar a mejor por esa persona que lo cambio todo, que trajo con ella razones de sobra para todo. Para seguir amando.
+
+Sabes muy bien que yo no te puedo prometer una vida entera de novios, pero lo que puedo prometerte es que hasta el momento que dejemos de serlo, yo estaré ahí para ti, siempre. Tu eres sin duda alguna y nuca dejare de decirlo, la novia más perfecta, la mujer más hermosa y la chica más linda que puedo tener conmigo, como mi novia, una que hace mucho por mí. Tal vez aún tenemos roces, puede que no nos demos cuenta de lo que el otro hace por el otro, pero lo más importante es que seguimos ahí, sin caer.
+
+Como te lo eh dicho antes, escribirte es algo difícil, decir algo que no haya dicho ya es complicado, pero no me cansare de buscar nuevas maneras de que sepas lo que siento, que esto es para ti, para lo que hemos creado. Estas palabras nacen de un corazón que depende de otro, que los latidos se han sincronizado con el paso del tiempo, y claro pueden perder dicha sincronía, pero esto no significa que van a dejar de amar, de sentir eso tan hermoso, tan problemático, tan adictivo; el amor.
+
+Y con esto me despido:
+
+Querido corazón de la mujer más hermosa del mundo:
+
+Ama sin medida, ama como loco, ama como más te convenga, hazlo bien y con todas las ganas posibles, se feliz, déjate amar, cuida de ti y de aquello que te preocupa. El camino es difícil, escabroso y sin duda largo, puede que resulte tedioso, que te hartes, pero recuerda que hay otro corazón latiendo por ti, para ti y contigo, todo al mismo tiempo. La vida es corta, se debe aprovechar lo que se tiene, tal vez hasta intentar golpearla un poco y se convierta en algo distinto, que no sea una costumbre, que cambie, tal vez a bien o a mal, pero que todo aquello que hiciste con ese tiempo, valga toda la pena, cada centavo, cada minuto y mires atrás con gusto, con un agrado de saber que lo que eres ahora es, por mucho, mejor que lo que eras antes, que esas cicatrices te recuerden batallas hermosas, luchas épicas que pudieron terminarlo todo en ese momento, pero no lo hicieron, si no que te brindaron de una fortaleza que ahora gozas al por mayor.
+
+Claro está que la mejor forma de despedirme es con,
+
+Una tonelada de besos.
+
+>Nota\
+>Esta es una carta que le escribí a la mujer a la que he nombrado como “El primer amor de mi vida”. Como bien pueden apreciar, es el primer amor. la primera vez que mi indiferente y puberta persona se dignó a dar la mano a torcer y enamorarse de una mujer y a formar una relación dependiente y tóxica. Definitivamente hay peores, pero sin duda una relación en la cual se sufrió mucho de un mal muy común: la idiotez y la ignorancia. 
+>Una versión editada de la original y con permiso de la susodicha. Y una pequeña porción de lo que mi corazón sentía en aquellos momentos donde ya había sufrido de varios “percances maritales”.
+>Siganme para mas cartas tóxicas.
