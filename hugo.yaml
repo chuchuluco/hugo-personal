@@ -2,7 +2,7 @@ baseURL: https://oscar-fdz.com/
 languageCode: en-us
 title: Oscar FDZ
 theme: PaperMod
-paginate: 5
+pagination.pagerSize: 5
 
 pluralizeListTitles: false
 
