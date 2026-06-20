@@ -1,8 +1,9 @@
-+++
-title = 'El Spich'
-date = 2026-06-16T19:07:06-05:00
-draft = true
-+++
+---
+title: "El Spich"
+date: '2026-06-18T12:21:07'
+draft: false
+author: 'Oscar FDZ'
+---
 
 >Nota: Este es el borrador de un speech que quería hacer en la boda de mi mejor amigo Jordy que desafortunadamente no tuve la oportunidad de leer. La verdad es que estas son muy pocas palabras para explicar lo que él significa en mi vida, pero creo que la definición de amigo que más me gusta es la que presento en este texto: un amigo es una persona que te complementa tu ser y existencia, una persona que se vuelve parte de tu ser y tu existir, que jamás podrá separarse y que obviamente nunca vas a querer separarte de esa parte tan bella y fundamental de tu vida.
 >Últimamente, yo por ese wey lo daría todo sin pensarlo. Considero su familia mi familia y en mi corazón habitarán de por vida y más allá de la muerte. 
