@@ -21,10 +21,10 @@ UseHugoToc: false
 ---
 
 >Note: 
->This is a letter for a girl that is really precious to me, but unfortunatly 
+>This is a letter for a girl really precious to me, but unfortunately I wasn't able to meet her expectations and even if things felt really good, the reality was quite different. I do love her and wish her the best, but obviously being offered friendship when you want love is one of the hardest things to accept. Life has showed me that it's better to end something right away before it becomes a bunch of lies you tell yourself. Don't want to make excuses but I also want to be true to my heart and feelings. 
 
 
-\Simple man, complicated mind. Can't remember when I started to overthink and go beyond the normal amount of thought for any given thing, I have become simple by the single fact of being practical and literal.
+Simple man, complicated mind. Can't remember when I started to overthink and go beyond the normal amount of thought for any given thing, I have become simple by the single fact of being practical and literal.
 Intelligence is not something that makes you happier, thinking is not something that helps you all the time, making sense of emotion is stupid and shouldn't be done, feeling should be done with the heart and not the brain. 
 I used to "convince myself" of being in love or liking someone: she is pretty, she likes me, she is kind of attractive, I can kiss her, she is kind of hot, maybe I should be with her, I think I like her, she is nice and wants me, maybe I should too, I'm good with words I can be romantic and make her love me, I think I love her, I think I really feel it. Why would I not feel that bad if I just left? Why I don't care for her opinion? Why do I feel annoyed? Why do I have to force myself? Can't I just be happy? I think I'm a bad lover.
 I have matured and came to the understanding that life is easier when you are not thinking too much and feeling more, feeling the hot coffee you can drink because you have a steady job and enough money to buy it. Being grateful is another one. 
