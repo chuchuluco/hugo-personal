@@ -5,7 +5,7 @@ tags: ["blog"]
 author: "Oscar Fdz"
 showToc: false
 TocOpen: false
-draft: true
+draft: false
 hidemeta: false
 comments: false
 description: ""
