@@ -46,6 +46,6 @@ Claro está que la mejor forma de despedirme es con,
 Una tonelada de besos.
 
 >Nota\
->Esta es una carta que le escribí a la mujer a la que he nombrado como “El primer amor de mi vida”. Como bien pueden apreciar, es el primer amor. la primera vez que mi indiferente y puberta persona se dignó a dar la mano a torcer y enamorarse de una mujer y a formar una relación dependiente y tóxica. Definitivamente hay peores, pero sin duda una relación en la cual se sufrió mucho de un mal muy común: la idiotez y la ignorancia. 
+>Esta es una carta que le escribí a la mujer a la que he nombrado como “El primer amor de mi vida”. Como bien pueden apreciar, es el primer amor. La primera vez que mi indiferente y puberta persona se dignó a dar la mano a torcer y enamorarse de una mujer y a formar una relación dependiente y tóxica. Definitivamente hay peores, pero sin duda una relación en la cual se sufrió mucho de un mal muy común: la idiotez y la ignorancia. 
 >Una versión editada de la original y con permiso de la susodicha. Y una pequeña porción de lo que mi corazón sentía en aquellos momentos donde ya había sufrido de varios “percances maritales”.
 >Siganme para mas cartas tóxicas.
